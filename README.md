@@ -49,5 +49,19 @@ Por lo regular se usan dos niveles por la recomendación de la guía de estilos 
   ## Casillas de Verificación o Checkmarks/box ##
  Se utiliza el input de tipo "input type="checkbox"", se le pueden dar los mismos atributos de label y relacionarlos por un for-id,  en este caso para "checkbox" aunque se aniden con el atributo "name" podrán seleccionarse varios. 
   ## Head ##
-  Contiene la metadata y los elementos que no vemos pero son necesarios para que la página funcione conrrectamentem por ejemplo si necestamos añadir archivos CSS o JS a nuestro archivo HTML se agregan en esta zona. Se puede personalizar el título de la página con "title", lo cual es un factor importante para el SEO, posicionamiento y también para la xperiencia de usuario. 
+  Contiene la metadata y los elementos que no vemos pero son necesarios para que la página funcione conrrectamentem por ejemplo si necestamos añadir archivos CSS o JS a nuestro archivo HTML se agregan en esta zona. Se puede personalizar el título de la página con "title", lo cual es un factor importante para el SEO, posicionamiento y también para la xperiencia de usuario.
+
+# CSS #
+  Cascading Style Sheets / Hojas de Estilo en Casccada. Esun lenguaje que esta basado en REGLAS, las cuales determinar el estilo que se aplicará a un elemento o a un grupo de elementos. 
+## 3 opciones de CSS ##
+  ### 1. Estilos en línea ### 
+  El estilo se añade directametne a la etiqueta de apertura del elemento HTML. Ej. en el h2 agregamos style="color". 
+  ### 2. Style ###
+  Añadimos el elemento <style> en <head> para describir el estilo. y engloba a varios elementos para cambiar o modificar varios. 
+  ### 3. Archivo CSS ###
+  Crear un archivo .css que contiene todas las reglas y lo vinculamos con el .html, para aplicar las reglas de uno en otro. ESTE ES EL TIPO MÁS RECOMENDADO 
+  
+  
+  
+
   
