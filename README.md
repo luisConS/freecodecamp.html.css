@@ -60,8 +60,15 @@ Por lo regular se usan dos niveles por la recomendación de la guía de estilos 
   Añadimos el elemento <style> en <head> para describir el estilo. y engloba a varios elementos para cambiar o modificar varios. 
   ### 3. Archivo CSS ###
   Crear un archivo .css que contiene todas las reglas y lo vinculamos con el .html, para aplicar las reglas de uno en otro. ESTE ES EL TIPO MÁS RECOMENDADO 
+  Los selectores CSS son escenciales, ej. h2 p h3 etc... especificamos el tipo de elemento al cual se le va a aplicar es estilo que indiquemos. 
+  ### Selectores ### 
+  De tipo: si escribimos "input" aplicará a todos los inputs. 
+  De clase: Ej. ".classname" por ejemplo si usamos "ul" el selector afectará a los elementos de las listas no ordenadas. 
+  De Id: 
+  De atributos:
+  Universal: se utiliza un * asterisco 
   
-  
+  ### Tamaño de letra con propiedad de CSS ###
   
 
   
